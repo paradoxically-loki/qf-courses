@@ -8,3 +8,8 @@ cd qf-courses
 ```
 
 Raise issues, if any. Make PRs if you want to add something.
+
+
+---
+This folder first appeared on BT Study Drive under project bt study drive maintained by nearly a dozen BT students.(primarily 22 batch)
+Check out more at: https://drive.google.com/drive/folders/1_bS2WpgeFRYFLOA7ErUccq7mR__jJp6i
